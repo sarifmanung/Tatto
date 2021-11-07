@@ -1,0 +1,11 @@
+.tattoo-item img {
+    display: block;
+    width: 100%;
+    cursor: zoom-in;
+   
+}
+ @media only screen and (max-width: 600px) {
+        body {
+          background-color: lightblue;
+        }
+      }
