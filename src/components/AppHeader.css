@@ -9,4 +9,15 @@
 .app-header-logo {
     display: block;
     height: 44px;
+    
+}
+
+.header-text{
+    margin:0 20px;
+    font-family:'Satisfy', cursive;
+    text-align: left;
+    font-size: 40px;
+
+    
+    color:rgb(0, 0, 0)
 }

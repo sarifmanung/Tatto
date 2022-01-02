@@ -1,38 +1,43 @@
 const tattoos = [
   {
-    title: "แขนเท่ห์ๆ",
-    thumbnailUrl: "/images/tattoo-01-small.jpg",
-    fullUrl: "/images/tattoo-01-large.jpg",
+    title: "The Tesla Model",
+    thumbnailUrl: "/images/car-02-small.jpg",
+    fullUrl: "/images/car-02-small.jpg",
   },
   {
-    title: "มือเท่ห์ๆ",
-    thumbnailUrl: "/images/tattoo-02-small.jpg",
-    fullUrl: "/images/tattoo-02-large.jpg",
+    title: "The Tesla Model",
+    thumbnailUrl: "/images/car-03-small.jfif",
+    fullUrl: "/images/car-03-small.jfif",
   },
   {
-    title: "คอเท่ห์ๆ",
-    thumbnailUrl: "/images/tattoo-03-small.jpg",
-    fullUrl: "/images/tattoo-03-large.jpg",
+    title: "The Tesla Model",
+    thumbnailUrl: "/images/car-04-small.jfif",
+    fullUrl: "/images/car-04-small.jfif",
   },
   {
-    title: "หลังเท่ห์ๆ",
-    thumbnailUrl: "/images/tattoo-04-small.jpg",
-    fullUrl: "/images/tattoo-04-large.jpg",
+    title: "The Tesla Model",
+    thumbnailUrl: "/images/car-05-small.jfif",
+    fullUrl: "/images/car-05-small.jfif",
   },
   {
-    title: "แขนเท่ห์ๆ",
-    thumbnailUrl: "/images/tattoo-05-small.jpg",
-    fullUrl: "/images/tattoo-05-large.jpg",
+    title: "The Tesla Model",
+    thumbnailUrl: "/images/car-06-small.jfif",
+    fullUrl: "/images/car-06-small.jfif",
   },
   {
-    title: "แขนเท่ห์ๆ",
-    thumbnailUrl: "/images/tattoo-06-small.jpg",
-    fullUrl: "/images/tattoo-06-large.jpg",
+    title: "The Tesla Model",
+    thumbnailUrl: "/images/car-07-small.jpg",
+    fullUrl: "/images/car-07-small.jpg",
   },
   {
-    title: "Cool car",
+    title: "The Tesla Model",
     thumbnailUrl: "/images/car-01-small.jpg",
     fullUrl: "/images/car-01-small.jpg",
+  },
+  {
+    title:"The Tesla Model",
+    thumbnailUrl:"images/car-08-small.jfif",
+    fullUrl:"images/car-08-small.jfif"
   }
 ];
 

@@ -1,11 +1,13 @@
-.tattoo-item img {
-    display: block;
-    width: 100%;
-    cursor: zoom-in;
-   
+.tattoo-item{
+  padding:0px 0px;
 }
- @media only screen and (max-width: 600px) {
-        body {
-          background-color: lightblue;
-        }
-      }
+.tattoo-item img {
+  display: block;
+  width: 100%;
+  cursor: zoom-in;
+}
+@media only screen and (max-width: 600px) {
+  body {
+    /* background-color: rgb(194, 240, 255); */
+  }
+}
